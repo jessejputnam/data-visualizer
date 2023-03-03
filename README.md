@@ -35,32 +35,22 @@ Users should be able to:
 
 ### Screenshot
 
-![](./collage.jpg)
-
-<!-- Env Variables -->
-
-### :key: Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`MONGODB_URI` - MongoDB key [MongoDB](https://www.mongodb.com/)
-
-`SESSION_SECRET` - Random string for security
-
-`POKE_API_KEY` - API key for the TCG database [PokeAPI](https://pokemontcg.io/)
+![](./screenshot/png)
 
 ## My process
 
 ### Built with
 
 - [JavaScript](https://www.javascript.com/) - Frontend scripting language
-- [Node.js](https://nodejs.dev/en/) - Backend JavaScript runtime environment
-- [Express](https://expressjs.com/) - Web framework for Node.js
-- [MongoDB](https://www.mongodb.com/) - NoSQL cloud database
-- [Mongoose](https://mongoosejs.com/) - MongoDB object modeling for Node.js
-- [Passport](https://www.passportjs.org/) - Authorization and session security
+- [React](https://reactjs.org/) - Frontend library
+- [MaterialUI](https://mui.com/) - React UI tool library
+- [D3.js](https://d3js.org/) - Data visualization library
 
 ### Continued Development
+
+- Getting more specific with the line graph -- expecially dealing with ever-expanding amounts of information:
+  - How to display that data? How to truncate and let the user expand?
+- Working with animation and animating the graphs
 
 ## Author
 
