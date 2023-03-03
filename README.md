@@ -1,6 +1,6 @@
 # Data Visualizer
 
-- Live Site URL: [Data Visualizer](jessejputnam.github.io/data-visualizer)
+- Live Site URL: [Data Visualizer](https://jessejputnam.github.io/data-visualizer)
 
 ## Summary:
 
