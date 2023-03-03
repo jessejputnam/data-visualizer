@@ -1,0 +1,32 @@
+/* Variables */
+
+:root {
+  --dark-blue: #2176ae;
+  --light-blue: #76b6fa;
+  --green: #4cddb5;
+  --white: #ffffff;
+  --red: #ff0000;
+  --gray: #757575;
+  --light-gray: #dcdcdc;
+  --flag-red: #e29999;
+  --flag-yellow: #f0bf75;
+  --flag-green: #afee85;
+  --chart-orange: #f3b66c;
+  --chart-green: #3fc9a2;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.App {
+  font-family: "Roboto", Helvetica, sans-serif;
+  font-variant: small-caps;
+  box-sizing: border-box;
+  background-color: var(--light-gray);
+}
